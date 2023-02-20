@@ -11,7 +11,7 @@
 - [원영](https://github.com/yooveloper) 🙈
 - [선경](https://github.com/seongyeong826)
 - [준석](https://github.com/frost0807)
-- [다솜](https://github.com/babybeb)
+- [다솜](https://github.com/kkumta)
 - [호연](https://github.com/namuhuchutong)
 - [원하](https://github.com/wonha)
 - [지선](https://github.com/sunysty)
@@ -49,7 +49,34 @@
 
 ### 💬 발표
 
--
+- 매 주 지정된 발표자가 1장씩 발표
+
+### 📅 일정
+
+- WEEK 1 (2023년 02월 27일)
+  - 발표자 : 원영, 준석
+  - 1장 HTTP 개관
+  - 2장 URL과 리소스
+- WEEK 2 (2023년 03월 06일)
+  - 발표자 : 호연, 지선
+  - 3장 HTTP 메시지
+  - 4장 커넥션 관리
+- WEEK 3 (2023년 03월 13일)
+  - 발표자 : 다솜, 선경
+  - 5장 웹 서버
+  - 7장 캐시
+- WEEK 4 (2023년 03월 20일)
+  - 발표자 : 원하, 준영
+  - 11장 클라이언트 식별과 쿠키
+  - 12장 기본 인증
+- WEEK 5 (2023년 03월 27일)
+  - 발표자 : 다솜, 원하
+  - 14장 보안 HTTP
+  - 15장 엔터티와 인코딩
+- WEEK 6 (2023년 04월 03일)
+  - 발표자 : 원영, 호연
+  - 16장 국제화
+  - 17장 내용 협상과 트랜스코딩
 
 <br>
 
